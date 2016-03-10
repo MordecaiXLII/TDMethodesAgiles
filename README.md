@@ -2,11 +2,15 @@
 
 Guide du Blackjack
 
+_________________________________________________________________________________________________________________________________
+
 Ce guide comprendra la présentation du jeu, les règles, et quelques stratégies.
+
+_________________________________________________________________________________________________________________________________
 
 Les guides existants sont trop complexes ou, dans le cas contraire, manque d'informations, donc on se propose de réaliser un guide plus parlant pour les débutants.
 
-
+_________________________________________________________________________________________________________________________________
 
 Les objectifs de ce guide sont :
 
@@ -16,7 +20,7 @@ Les objectifs de ce guide sont :
 
 • d'analyser différentes stratégies
 
-
+_________________________________________________________________________________________________________________________________
 
 Les parties prenantes de ce projet sont :
 
@@ -32,7 +36,7 @@ Les parties prenantes de ce projet sont :
 
 • Coach agile
 
-
+_________________________________________________________________________________________________________________________________
 
 Caractéristiques non fonctionnelles : 
 
@@ -50,7 +54,7 @@ Caractéristiques non fonctionnelles :
 
 • Utilisation de google sheet
 
-
+_________________________________________________________________________________________________________________________________
 
 Caractéristiques fonctionnelles :
 
